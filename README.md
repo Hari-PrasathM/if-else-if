@@ -22,7 +22,7 @@ printf("Grade D");
 }
 else
 {
-printf("Grade E");
+printf("Grade F");
 }
 return 0;
 }
